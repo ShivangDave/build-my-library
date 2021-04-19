@@ -1,0 +1,10 @@
+# Ignore all logfiles and tempfiles.
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+# Ignore SRC
+/src/*
+songs.csv
+failed_songs.txt
