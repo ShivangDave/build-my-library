@@ -5,6 +5,7 @@
 !/tmp/.keep
 
 # Ignore SRC
-/src/*
+/src/*.json
+/src/YoutubeMusicHeaders
 songs.csv
 failed_songs.txt
